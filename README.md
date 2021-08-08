@@ -9,9 +9,10 @@ When a user then enters schema and seed commands then a development database is 
 When the command to invoke the application is entered then the server is started and the Sequelize models are synced to the MySQL database. 
 When the user opens API GET routes in Postman for categories, products, or tags then the data for each of these routes is displayed in a formatted JSON. When they test API POST, PUT, and DELETE routes in Postman they are able to successfully create, update, and delete data in the database.
 
-## Attached are my deployed links to GitHub and My Youtube video demonstrating the application in Postman
+## Attached are my deployed links to GitHub and 
 
 https://github.com/ToddKelly/Todds-Hockey-Emporium.git
 https://toddkelly.github.io/Todds-Hockey-Emporium/
 
+## Follow the link below to view my Youtube video demonstrating the application in Postman
 https://youtu.be/mihoH7jDRd8
